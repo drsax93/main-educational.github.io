@@ -9,13 +9,20 @@ The descriptions and material below are provisional, and may be updated until De
 
 ### Instructor
 
-Nikhil Bhagwat
+**Nikhil Bhagwat, PhD** is an Academic Associate in the [ORIGAMI lab](https://neurodatascience.github.io/) (PI: [Dr. JB Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd)) at McGill University. He completed his PhD thesis on prognostic applications for Alzheimer’s disease using MR imaging and machine-learning (ML) techniques in the [CoBrA Lab](https://www.cobralab.ca/) (PI: [Dr. Mallar Chakravarty](http://cobralab.ca/members/commander/)) at the University of Toronto. Subsequently, he worked as a researcher at the University of Massachusetts and the Allen Institute. His current research interests include disease staging, subtyping, and prognosis using ML models, along with development of neuroinformatics tools for improving [reproducibility](https://github.com/neurodatascience/mr_proc) and [sustainability](https://neuropipelines.github.io/10carbon) of computational pipelines. 
 
 ### Objectives
- * Understand basic concepts in supervised machine-learning
- * Implement a typical model validation pipeline with Scikit-learn
- * Learn about various model performance scores and their use-cases
+  * Define machine-learning nomenclature
+  * Describe basics of the “learning” process
+  * Explain model design choices and performance trade-offs
+  * Introduce model selection and validation frameworks
+  * Explain model performance metrics
 
+### Questions you will be able to answer after taking this module:
+  * Model training - what is under/over-fitting?
+  * Model selection - what is (nested) cross-validation?
+  * Model evaluatation - what are type-1 and type-2 errors?
+  
 ### Materials
 [GitHub Link](https://github.com/neurodatascience/main-2021-ml-parts-1-2)
 
@@ -27,16 +34,13 @@ Nikhil Bhagwat
 **Giuseppe P Gava, PhD** is a postdoctoral neuroscientist in the Dupret Lab at the MRC BNDU, University of Oxford. He was awarded a PhD from the Centre for Doctoral Training in Neurotechnology at Imperial College London, where he also graduated in Biomedical Engineering. He aims to use concepts from network science, topology and information theory to understand the complex neural circuitry and dynamics that shape memory and cognition.
 
 ### Objectives
- * Data analysis for electrophysiological time series from freely-behaving animals
  * Data analysis for in vivo calcium imaging time series from freely-behaving animals
- * Assess the co-firing structure and topology of neuronal networks, comparing them using Riemannian metrics
+ * Data analysis for electrophysiological time series from freely-behaving animals
  * Compare representation in neural data to theoretical models with representational similarity analysis (RSA) and manifold-based analyses
-
+ * Assess the co-firing structure and topology of neuronal networks and compare them using Riemannian metrics.
 
 ### Materials
- * Ephys material: [GitHub link](https://github.com/drsax93/cofiringTopology);
-[Google collab link](https://colab.research.google.com/drive/1eQjaabGHZFHwYjiM516S0UjeL9B3-2iZ#scrollTo=Rvuf55uzAKXn)
- * Calcium imaging material: [Github link](https://github.com/jquinnlee/MAIN_2022_calRSA/blob/main/MAIN2022_calciumRSA_demo.ipynb)
+[GitHub link to ephys material](https://github.com/drsax93/cofiringTopology)
 
 ## Keynote Patrick Mineault
 
