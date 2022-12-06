@@ -3,7 +3,7 @@
 ## December 9th
 
 ### Morning sessions
-08:30 EST - 09:00 EST **Registration**, snack and coffee
+08:00 EST - 09:00 EST **Registration**, snack and coffee
 
 09:00 EST - 09:10 EST **Welcome**
 
@@ -108,7 +108,7 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :class-header: bg-light text-center
 :link: ./material.html#model-selection-and-validation
-**Jérôme Dockes**
+**Jérôme Dockès**
 ^^^
 ```{image} images/logo_scikit-learn.png
 :height: 100
@@ -156,7 +156,7 @@ Learn more {fas}`arrow-right`
 :class-body: text-center
 :class-header: bg-light text-center
 :link: ./material.html#brain-decoding
-**Peer Herholz**
+**Peer Herholz, Bertrand Thirion and Shima Rastegarnia**
 ^^^
 ```{image} images/thumbnail_decoding.png
 :height: 100
